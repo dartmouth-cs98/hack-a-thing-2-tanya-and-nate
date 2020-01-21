@@ -11,5 +11,7 @@ Nate -
 
 ### What Didn't Work:
 
+### How it relates to our project:
+
 ### Tutorials Followed (Roughly)
 https://www.linkedin.com/learning/react-native-essential-training/welcome?accountId=2167153&u=2167153&success=true&authUUID=57eg7yuTQdeGoyhg7UlFmg%3D%3D
