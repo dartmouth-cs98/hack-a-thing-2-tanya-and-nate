@@ -1,17 +1,17 @@
 # Hack-A-Thing 2: React-native Readme
 ## Nate and Tanya, January 2020
 ### Thing Description:
-
+We did a few different tutorials to learn different aspects of react-native that could be useful for our project.
 
 ### Who Did What:
-Tanya - 
-Nate - 
+Tanya built the ISS Imagery app
+Nate 
 
-### What I Learned:
+### What We Learned:
 
 ### What Didn't Work:
 
 ### How it relates to our project:
 
 ### Tutorials Followed (Roughly)
-https://www.linkedin.com/learning/react-native-essential-training/welcome?accountId=2167153&u=2167153&success=true&authUUID=57eg7yuTQdeGoyhg7UlFmg%3D%3D
+* https://www.gistia.com/react-native-app-mobile-beginner/
