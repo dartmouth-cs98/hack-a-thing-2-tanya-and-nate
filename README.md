@@ -4,8 +4,7 @@
 We did a few different tutorials to learn different aspects of react-native that could be useful for our project.
 
 ### Who Did What:
-Tanya built the ISS Imagery app
-Nate 
+Tanya built the ISS Imagery app with the help of the tutorial. Nate 
 
 ### What We Learned:
 
